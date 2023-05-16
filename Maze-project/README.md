@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/vinibiavatti1/RayCastingTutorial/wiki" align="center"><img src="https://github.com/vinibiavatti1/RayCastingTutorial/blob/master/resources/logo.png?raw=true" /></a>
-    <h1 align="center">RayCasting Tutorial</h1>
-    <p align="center">A tutorial repository for anyone who wants to learn how to render RayCasting like old 3D games!</p>
-    <h3 align="center"><a href="https://github.com/vinibiavatti1/RayCastingTutorial/wiki">-- Maze-project --</a></h3>
+    <a href="https://github.com/Trigis/Maze-project /wiki" align="center"><img src="https://github.com/Trigis/Maze-project /blob/master/resources/logo.png?raw=true" /></a>
+    <h1 align="center">Maze-project</h1>
+    <p align="center">Maze-project repository for anyone who wants to learn how to render Maze-project like old 3D games!</p>
+    <h3 align="center"><a href="https://github.com/Trigis/Maze-project /wiki">-- Maze-project --</a></h3>
 </p>
 
 ### Introduction
@@ -23,10 +23,9 @@ The implementation is not so hard, but you have to know the basics of trigonomet
 - Basic of Trigonometry
 - HTML5 Canvas
 
-### Tutorial
-
+### Maze-project
 Click in this [link](https://github.com/Trigis/Maze-project/tree/main) to access the Maze-project  . This Maze-project  is in the Wiki page of this repository.
 
 ### Contributing
 
-If you wants to contribute for this tutorial, suggest some fix, found something wrong or contribute to this project, please, open an issue in this repository and I will analyze it with great pleasure. Thanks!
+If you wants to contribute for this Maze-project, suggest some fix, found something wrong or contribute to this project, please, open an issue in this repository and I will analyze it with great pleasure. Thanks!
